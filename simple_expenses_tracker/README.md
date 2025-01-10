@@ -54,7 +54,7 @@ Your Expenses:
 Coffee: $4.50
 Total Spent: $4.50
 ```
-[View the Code File](https://github.com/meenakshi-sethi/python_programs/blob/main/simple_expenses_tracker/expense_tracker.py)
+[View the Code File](https://github.com/meenakshi-sethi/python_programs/blob/main/simple_expenses_tracker/simple_expenses_tracker.py)
 ---
 
 ## Why I Built This
