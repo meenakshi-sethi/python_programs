@@ -46,7 +46,7 @@ Chatbot: I’m just a bot, but I’m doing great!
 You: Bye
 Chatbot: Goodbye!
 ```
-
+[View Code](https://github.com/meenakshi-sethi/python_programs/blob/main/simple_chatbot/simple_chatbot.py)
 ---
 
 ### **License**
